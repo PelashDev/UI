@@ -1,0 +1,160 @@
+body{
+    font-family: sans-serif;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0%;
+    margin: auto;
+}
+.container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 19px;
+    box-shadow: 0px 4px 10px #0000001a ,#11c0201a;
+    width: 350px;
+    text-align: center;
+    }
+
+div    .icons{
+    margin-left: 220px;
+    }
+
+    .h2{
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+    .Package{
+        margin-top: 2%;
+        margin-bottom: 50px;
+        color: #7d857f;
+    }
+.Second-c{
+    background-color: #f1e8ec;
+        display:flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 0%;
+        border-radius: 20px;
+}
+.Apple{
+    border-radius: 18px;
+}
+
+    .order-summary{
+        background-color: #f1e8ec;
+        padding: 20px;
+        border-radius: 20px;
+        align-items: cente;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .order-summary h2{
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom:15px;
+        margin-right: 60px;
+    }
+    .order-item{
+display: flex;
+justify-content: space-between;
+padding: 8px 0;
+border-bottom: 1px solid #ddd;
+margin-bottom: 12px;
+    }
+    .order-item:last-child {
+        border-bottom: none;
+    }
+    .order-item:last-child {
+        border-bottom: dotted;
+    }
+     .label{
+        color:#666;
+        font-size: 14px;
+     }
+     .value{
+        font-weight: normal;
+        color: #333;
+        font-size: 14px;
+     }
+    #Order{
+        transition: 2s ease-in-out;
+    }
+
+        #Order:hover{
+            transform: scale(1.6);
+            cursor: pointer;
+    }
+    .Order-img{
+        overflow: hidden;}
+        
+    
+hr{
+    margin-top:0px;
+}
+ 
+
+    .p1{
+        text-align: left;
+        margin-bottom:0px;
+        margin-bottom: 20px;}
+
+    .p2{
+        text-align: left;
+        margin-top:px;
+        margin-bottom: 0px;}
+
+    .p3{
+        text-align: left;
+        margin-bottom:0px;
+        margin-bottom: 0px;}
+
+    .p4{
+        text-align: left;
+        justify-content: space-between;
+    }
+.p2{
+    margin-top:10px;
+}
+    .s1{
+        margin-top: 0px;
+        margin-bottom: 10px;
+        text-align: right;
+        padding-top:1px;
+    }
+        .track-btn{
+    border: none;
+    width: 200px;
+    padding: 10px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+
+        }
+        .track-btn:hover{
+            background-color:rgb(201, 190, 190);
+            color: rgb(0, 0, 0);
+           transition: 1s ease-in-out;
+        }
+
+    .h4{
+        color: green;
+        margin-top: 10px;
+        font-size: 13px;
+        cursor: pointer;
+        text-decoration:none;
+    }
+    .h4:hover{
+            color: black;
+        }
+
+
+    
+.Apple:hover{ 
+    transform: scale(0.6);
+    cursor: pointer;
+}
+.Apple{overflow: hidden;
+    transition: 1s ease-in-out;}
