@@ -1,7 +1,7 @@
 # Project 🚀
 
-This is a responsive delivery UI designed with HTML, CSS.
-## Features
+A delivery UI designed with HTML, CSS.
+
 - Clean UI
 
 
